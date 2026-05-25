@@ -2,3 +2,4 @@ git config --global user.email "yashikashelkey@gmail.com"
 git config --global user.name "yashikashelkey"
 
 HOW TO CONFIGURE GIT
+1.Go to folder where the 

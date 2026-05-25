@@ -2,4 +2,8 @@ git config --global user.email "yashikashelkey@gmail.com"
 git config --global user.name "yashikashelkey"
 
 HOW TO CONFIGURE GIT
-1.Go to folder where the 
+1.Go to folder Java21.
+2.Select the getinfo file.
+Right click on it.
+Click on the git GUI
+Git GUI prompt will appear

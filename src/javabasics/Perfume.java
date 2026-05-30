@@ -28,7 +28,7 @@ public class Perfume {
 		String fragranceClassification = perfume.fragranceClassification;
 		System.out.println("The fragrance" + fragranceClassification);
 		boolean isOrganic = perfume.isOrganic;
-		System.out.println("isOrganic");
+		System.out.println(isOrganic);
 		String fragranceFamily = perfume.fragranceFamily;
 		System.out.println("The fragrance family : " + fragranceFamily);
 		int packOf = perfume.packOf;

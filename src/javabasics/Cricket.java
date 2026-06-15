@@ -35,4 +35,18 @@ public class Cricket {
 		System.out.println("The number of teams " + numberOfTeams);
 		
 	}
+
+	/**
+	 * @return the name
+	 */
+	private String getName() {
+		return name;
+	}
+
+	/**
+	 * @param name the name to set
+	 */
+	private void setName(String name) {
+		this.name = name;
+	}
 }

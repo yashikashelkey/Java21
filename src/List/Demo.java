@@ -5,6 +5,7 @@ import java.util.LinkedList;
 public class Demo {
 
 	public static void main(String[] args) {
+		first obj = new first();
 		// TODO Auto-generated method stub
 /*	    ArrayList <Integer> num = new ArrayList<Integer>();
 		num.add(3);
@@ -27,7 +28,7 @@ public class Demo {
 		
 		//Upcasting
 		String s = "Hello";
-		Object obj = s;
+		//Object obj = s;
 		System.out.println(obj);
 		
 		//Downcasting

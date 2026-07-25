@@ -18,7 +18,7 @@ public class Demo {
 		int num = input;
 		
 		if(num == 0) {
-			return ;
+			//return reverse(num / 10, rev * 10 + num % 10); ;
 		}
 		int revNum = 0;
 		int lastDigit = num % 10;
@@ -28,3 +28,25 @@ public class Demo {
 	}
 
 }
+
+//public class Main {
+//
+//    static int reverse(int num, int rev) {
+//
+//        if (num == 0) {
+//            return rev;
+//        }
+//
+//        return reverse(num / 10, rev * 10 + num % 10);
+//    }
+//
+//    public static void main(String[] args) {
+//
+//        int num = 12345;
+//
+//        int ans = reverse(num, 0);
+//
+//        System.out.println("Original Number: " + num);
+//        System.out.println("Reversed Number: " + ans);
+//    }
+//}

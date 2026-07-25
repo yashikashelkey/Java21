@@ -24,13 +24,13 @@ public class FileRead {
 			e.printStackTrace();
 		}
 		
-		try {
-			BufferedWriter br =  new BufferedWdfriter(new FileWriter(file, true));
-			
-			System.out.println("Enter the line to be written by bufferWriter");
-			
-			
-		}
+//		try {
+//			//BufferedWriter br =  new BufferedWdfriter(new FileWriter(file, true));
+//			
+//			System.out.println("Enter the line to be written by bufferWriter");
+//			
+//			
+//		}
 	}
 
 }
